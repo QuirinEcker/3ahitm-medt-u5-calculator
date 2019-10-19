@@ -19,7 +19,3 @@ try {
 } catch (Exception $e) {
     echo "ERROR: Only two numbers allowed";
 }
-
-
-
-//echo eval("return $splitter[0];");
